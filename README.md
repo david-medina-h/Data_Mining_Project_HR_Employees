@@ -1,3 +1,3 @@
 # Data_Mining_Project_HR_Employees
-Comparing the accuracy of various supervised learning techniques with HR employee data.
-Used linear regression, logit, random forest.
+Comparing the accuracy of various supervised learning techniques with HR employee data.  
+Used linear regression, logit, and random forest.
